@@ -1,0 +1,9 @@
+{
+	"name": "surya01learning01adf",
+	"location": "eastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "abd30f8a-2809-4367-850c-2e54b0cc5f3d",
+		"tenantId": "808cc83e-a546-47e7-a03f-73a1ebba24f3"
+	}
+}
